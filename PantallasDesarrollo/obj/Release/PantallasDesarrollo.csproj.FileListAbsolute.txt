@@ -1,0 +1,154 @@
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\bin\Release\PantallasDesarrollo.exe.config
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.csprojResolveAssemblyReference.cache
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.AgregarMarca.resources
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.CambiarContraseña.resources
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.clientes.resources
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.dispositivos.resources
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.editarcli.resources
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.EditarMarca.resources
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.EditarUsuario.resources
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.facturas1.resources
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.Imprimiento.resources
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.ImprimirFactura.resources
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.Login.resources
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.MenuPrincipal.resources
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.ModificarAccesorio.resources
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.ModificarDispositivo.resources
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.ModificarModelo.resources
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.ModificarTipoDispositivo.resources
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.ModificarTipoID.resources
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.Modificar_contacto.resources
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.NuevoAccesorio.resources
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.NuevoCliente.resources
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.NuevoContacto.resources
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.NuevoDispositivo.resources
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.NuevoModelo.resources
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.NuevoTipoDispositivo.resources
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.NuevoTipoID.resources
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.NuevoUsuario.resources
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.ParametrosAdmon.resources
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.Properties.Resources.resources
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.usuarios.resources
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.csproj.GenerateResource.Cache
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\bin\Release\PantallasDesarrollo.exe
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\bin\Release\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\bin\Release\Clases.dll
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\bin\Release\Clases.pdb
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.exe
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.pdb
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\bin\Release\PantallasDesarrollo.exe.config
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.exe
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.pdb
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\bin\Release\PantallasDesarrollo.exe
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\bin\Release\PantallasDesarrollo.pdb
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\bin\Release\Clases.dll
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\bin\Release\Clases.pdb
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.csprojResolveAssemblyReference.cache
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.AgregarMarca.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.CambiarContraseña.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.clientes.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.dispositivos.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.editarcli.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.EditarMarca.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.EditarUsuario.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.facturas1.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.Imprimiento.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.ImprimirFactura.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.Login.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.MenuPrincipal.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.ModificarAccesorio.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.ModificarDispositivo.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.ModificarModelo.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.ModificarTipoDispositivo.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.ModificarTipoID.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.Modificar_contacto.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.NuevoAccesorio.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.NuevoCliente.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.NuevoContacto.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.NuevoDispositivo.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.NuevoModelo.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.NuevoTipoDispositivo.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.NuevoTipoID.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.NuevoUsuario.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.ParametrosAdmon.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.Properties.Resources.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.usuarios.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Release\PantallasDesarrollo.csproj.GenerateResource.Cache
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\bin\Release\PantallasDesarrollo.exe.config
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.exe
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.pdb
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\bin\Release\PantallasDesarrollo.exe
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\bin\Release\PantallasDesarrollo.pdb
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\bin\Release\Clases.dll
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\bin\Release\Clases.pdb
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.csprojResolveAssemblyReference.cache
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.AgregarMarca.resources
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.CambiarContraseña.resources
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.clientes.resources
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.dispositivos.resources
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.editarcli.resources
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.EditarMarca.resources
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.EditarUsuario.resources
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.facturas1.resources
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.Imprimiento.resources
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.ImprimirFactura.resources
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.Login.resources
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.MenuPrincipal.resources
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.ModificarAccesorio.resources
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.ModificarDispositivo.resources
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.ModificarModelo.resources
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.ModificarTipoDispositivo.resources
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.ModificarTipoID.resources
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.Modificar_contacto.resources
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.NuevoAccesorio.resources
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.NuevoCliente.resources
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.NuevoContacto.resources
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.NuevoDispositivo.resources
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.NuevoModelo.resources
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.NuevoTipoDispositivo.resources
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.NuevoTipoID.resources
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.NuevoUsuario.resources
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.ParametrosAdmon.resources
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.Properties.Resources.resources
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.usuarios.resources
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.csproj.GenerateResource.Cache
+C:\Users\edugo\Desktop\prueba\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.Ayuda.resources
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\bin\Release\PantallasDesarrollo.exe.config
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.exe
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\bin\Release\PantallasDesarrollo.exe
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\bin\Release\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\bin\Release\Clases.dll
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\bin\Release\Clases.pdb
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.csprojResolveAssemblyReference.cache
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.AgregarMarca.resources
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.Ayuda.resources
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.CambiarContraseña.resources
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.clientes.resources
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.dispositivos.resources
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.editarcli.resources
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.EditarMarca.resources
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.EditarUsuario.resources
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.facturas1.resources
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.Imprimiento.resources
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.ImprimirFactura.resources
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.Login.resources
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.MenuPrincipal.resources
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.ModificarAccesorio.resources
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.ModificarDispositivo.resources
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.ModificarModelo.resources
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.ModificarTipoDispositivo.resources
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.ModificarTipoID.resources
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.Modificar_contacto.resources
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.NuevoAccesorio.resources
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.NuevoCliente.resources
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.NuevoContacto.resources
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.NuevoDispositivo.resources
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.NuevoModelo.resources
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.NuevoTipoDispositivo.resources
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.NuevoTipoID.resources
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.NuevoUsuario.resources
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.ParametrosAdmon.resources
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.Properties.Resources.resources
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.usuarios.resources
+C:\Users\13\Desktop\sistema version prueba\PantallasDesarrollo\obj\Release\PantallasDesarrollo.csproj.GenerateResource.Cache

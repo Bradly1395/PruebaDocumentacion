@@ -1,0 +1,21 @@
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\Clases\bin\Release\Clases.dll
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\Clases\bin\Release\Clases.pdb
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\Clases\obj\Release\Clases.csprojResolveAssemblyReference.cache
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\Clases\obj\Release\Clases.Imprimir.resources
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\Clases\obj\Release\Clases.csproj.GenerateResource.Cache
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\Clases\obj\Release\Clases.dll
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\Clases\obj\Release\Clases.pdb
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\Clases\bin\Release\Clases.dll
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\Clases\bin\Release\Clases.pdb
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\Clases\obj\Release\Clases.csprojResolveAssemblyReference.cache
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\Clases\obj\Release\Clases.Imprimir.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\Clases\obj\Release\Clases.csproj.GenerateResource.Cache
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\Clases\obj\Release\Clases.dll
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\Clases\obj\Release\Clases.pdb
+C:\Users\13\Desktop\sistema version prueba\Clases\bin\Release\Clases.dll
+C:\Users\13\Desktop\sistema version prueba\Clases\bin\Release\Clases.pdb
+C:\Users\13\Desktop\sistema version prueba\Clases\obj\Release\Clases.csprojResolveAssemblyReference.cache
+C:\Users\13\Desktop\sistema version prueba\Clases\obj\Release\Clases.Imprimir.resources
+C:\Users\13\Desktop\sistema version prueba\Clases\obj\Release\Clases.csproj.GenerateResource.Cache
+C:\Users\13\Desktop\sistema version prueba\Clases\obj\Release\Clases.dll
+C:\Users\13\Desktop\sistema version prueba\Clases\obj\Release\Clases.pdb

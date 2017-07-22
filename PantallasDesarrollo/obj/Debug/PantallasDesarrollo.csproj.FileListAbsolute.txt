@@ -1,0 +1,672 @@
+c:\users\giancarlos\documents\visual studio 2012\Projects\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe.config
+c:\users\giancarlos\documents\visual studio 2012\Projects\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe
+c:\users\giancarlos\documents\visual studio 2012\Projects\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.pdb
+c:\users\giancarlos\documents\visual studio 2012\Projects\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csprojResolveAssemblyReference.cache
+c:\users\giancarlos\documents\visual studio 2012\Projects\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Login.resources
+c:\users\giancarlos\documents\visual studio 2012\Projects\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Properties.Resources.resources
+c:\users\giancarlos\documents\visual studio 2012\Projects\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csproj.GenerateResource.Cache
+c:\users\giancarlos\documents\visual studio 2012\Projects\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.exe
+c:\users\giancarlos\documents\visual studio 2012\Projects\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.pdb
+c:\users\giancarlos\documents\visual studio 2012\Projects\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.MenuPrincipal.resources
+C:\Users\GIANCARLOS\Documents\Visual Studio 2012\Projects\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.clientes.resources
+C:\Users\GIANCARLOS\Documents\Visual Studio 2012\Projects\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.facturas.resources
+C:\Users\GIANCARLOS\Documents\Visual Studio 2012\Projects\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ParametrosAdmon.resources
+C:\Users\GIANCARLOS\Documents\Visual Studio 2012\Projects\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.usuarios.resources
+C:\Users\GIANCARLOS\Documents\Visual Studio 2012\Projects\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.dispositivos.resources
+C:\Users\13\Desktop\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe.config
+C:\Users\13\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csprojResolveAssemblyReference.cache
+C:\Users\13\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.clientes.resources
+C:\Users\13\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.dispositivos.resources
+C:\Users\13\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.facturas.resources
+C:\Users\13\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Login.resources
+C:\Users\13\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.MenuPrincipal.resources
+C:\Users\13\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ParametrosAdmon.resources
+C:\Users\13\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Properties.Resources.resources
+C:\Users\13\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.usuarios.resources
+C:\Users\13\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csproj.GenerateResource.Cache
+C:\Users\13\Desktop\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.dll
+C:\Users\13\Desktop\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.pdb
+C:\Users\13\Desktop\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe.config
+C:\Users\13\Desktop\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.dll
+C:\Users\13\Desktop\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.pdb
+C:\Users\13\Desktop\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csprojResolveAssemblyReference.cache
+C:\Users\13\Desktop\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.clientes.resources
+C:\Users\13\Desktop\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.dispositivos.resources
+C:\Users\13\Desktop\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.facturas.resources
+C:\Users\13\Desktop\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Login.resources
+C:\Users\13\Desktop\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.MenuPrincipal.resources
+C:\Users\13\Desktop\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ParametrosAdmon.resources
+C:\Users\13\Desktop\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Properties.Resources.resources
+C:\Users\13\Desktop\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.usuarios.resources
+C:\Users\13\Desktop\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csproj.GenerateResource.Cache
+C:\Users\13\Desktop\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoCliente.resources
+C:\Users\13\Desktop\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoContacto.resources
+C:\Users\13\Desktop\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoDispositivo.resources
+C:\Users\13\Desktop\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoUsuario.resources
+C:\Users\13\Desktop\Sprint1\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe.config
+C:\Users\13\Desktop\Sprint1\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\Sprint1\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\Sprint1\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\Sprint1\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\Sprint1\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.dll
+C:\Users\13\Desktop\Sprint1\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.pdb
+C:\Users\13\Desktop\Sprint1\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csprojResolveAssemblyReference.cache
+C:\Users\13\Desktop\Sprint1\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.clientes.resources
+C:\Users\13\Desktop\Sprint1\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.dispositivos.resources
+C:\Users\13\Desktop\Sprint1\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.facturas.resources
+C:\Users\13\Desktop\Sprint1\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Login.resources
+C:\Users\13\Desktop\Sprint1\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.MenuPrincipal.resources
+C:\Users\13\Desktop\Sprint1\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoCliente.resources
+C:\Users\13\Desktop\Sprint1\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoContacto.resources
+C:\Users\13\Desktop\Sprint1\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoDispositivo.resources
+C:\Users\13\Desktop\Sprint1\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoUsuario.resources
+C:\Users\13\Desktop\Sprint1\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ParametrosAdmon.resources
+C:\Users\13\Desktop\Sprint1\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Properties.Resources.resources
+C:\Users\13\Desktop\Sprint1\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.usuarios.resources
+C:\Users\13\Desktop\Sprint1\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csproj.GenerateResource.Cache
+C:\Users\13\Desktop\Enviar\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe.config
+C:\Users\13\Desktop\Enviar\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\Enviar\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\Enviar\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\Enviar\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\Enviar\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.dll
+C:\Users\13\Desktop\Enviar\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.pdb
+C:\Users\13\Desktop\Enviar\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csprojResolveAssemblyReference.cache
+C:\Users\13\Desktop\Enviar\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.clientes.resources
+C:\Users\13\Desktop\Enviar\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.dispositivos.resources
+C:\Users\13\Desktop\Enviar\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.facturas.resources
+C:\Users\13\Desktop\Enviar\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Login.resources
+C:\Users\13\Desktop\Enviar\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.MenuPrincipal.resources
+C:\Users\13\Desktop\Enviar\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoCliente.resources
+C:\Users\13\Desktop\Enviar\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoContacto.resources
+C:\Users\13\Desktop\Enviar\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoDispositivo.resources
+C:\Users\13\Desktop\Enviar\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoUsuario.resources
+C:\Users\13\Desktop\Enviar\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ParametrosAdmon.resources
+C:\Users\13\Desktop\Enviar\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Properties.Resources.resources
+C:\Users\13\Desktop\Enviar\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.usuarios.resources
+C:\Users\13\Desktop\Enviar\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csproj.GenerateResource.Cache
+C:\Users\Dell Admin\Desktop\ProyectoIT\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe.config
+C:\Users\Dell Admin\Desktop\ProyectoIT\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.exe
+C:\Users\Dell Admin\Desktop\ProyectoIT\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.pdb
+C:\Users\Dell Admin\Desktop\ProyectoIT\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe
+C:\Users\Dell Admin\Desktop\ProyectoIT\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.pdb
+C:\Users\Dell Admin\Desktop\ProyectoIT\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.dll
+C:\Users\Dell Admin\Desktop\ProyectoIT\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.pdb
+C:\Users\Dell Admin\Desktop\ProyectoIT\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csprojResolveAssemblyReference.cache
+C:\Users\Dell Admin\Desktop\ProyectoIT\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.clientes.resources
+C:\Users\Dell Admin\Desktop\ProyectoIT\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.dispositivos.resources
+C:\Users\Dell Admin\Desktop\ProyectoIT\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.facturas.resources
+C:\Users\Dell Admin\Desktop\ProyectoIT\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Login.resources
+C:\Users\Dell Admin\Desktop\ProyectoIT\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.MenuPrincipal.resources
+C:\Users\Dell Admin\Desktop\ProyectoIT\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoCliente.resources
+C:\Users\Dell Admin\Desktop\ProyectoIT\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoContacto.resources
+C:\Users\Dell Admin\Desktop\ProyectoIT\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoDispositivo.resources
+C:\Users\Dell Admin\Desktop\ProyectoIT\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoUsuario.resources
+C:\Users\Dell Admin\Desktop\ProyectoIT\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ParametrosAdmon.resources
+C:\Users\Dell Admin\Desktop\ProyectoIT\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Properties.Resources.resources
+C:\Users\Dell Admin\Desktop\ProyectoIT\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.usuarios.resources
+C:\Users\Dell Admin\Desktop\ProyectoIT\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csproj.GenerateResource.Cache
+C:\Users\Dell Admin\Desktop\ProyectoIT\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Modificar_contacto.resources
+C:\Users\Dell Admin\Desktop\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe.config
+C:\Users\Dell Admin\Desktop\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.exe
+C:\Users\Dell Admin\Desktop\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.pdb
+C:\Users\Dell Admin\Desktop\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe
+C:\Users\Dell Admin\Desktop\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.pdb
+C:\Users\Dell Admin\Desktop\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.dll
+C:\Users\Dell Admin\Desktop\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.pdb
+C:\Users\Dell Admin\Desktop\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csprojResolveAssemblyReference.cache
+C:\Users\Dell Admin\Desktop\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.clientes.resources
+C:\Users\Dell Admin\Desktop\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.dispositivos.resources
+C:\Users\Dell Admin\Desktop\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.facturas.resources
+C:\Users\Dell Admin\Desktop\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Login.resources
+C:\Users\Dell Admin\Desktop\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.MenuPrincipal.resources
+C:\Users\Dell Admin\Desktop\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Modificar_contacto.resources
+C:\Users\Dell Admin\Desktop\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoCliente.resources
+C:\Users\Dell Admin\Desktop\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoContacto.resources
+C:\Users\Dell Admin\Desktop\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoDispositivo.resources
+C:\Users\Dell Admin\Desktop\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoUsuario.resources
+C:\Users\Dell Admin\Desktop\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ParametrosAdmon.resources
+C:\Users\Dell Admin\Desktop\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Properties.Resources.resources
+C:\Users\Dell Admin\Desktop\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.usuarios.resources
+C:\Users\Dell Admin\Desktop\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csproj.GenerateResource.Cache
+C:\Users\13\Desktop\Sprint2\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe.config
+C:\Users\13\Desktop\Sprint2\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\Sprint2\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\Sprint2\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\Sprint2\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\Sprint2\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.dll
+C:\Users\13\Desktop\Sprint2\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.pdb
+C:\Users\13\Desktop\Sprint2\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csprojResolveAssemblyReference.cache
+C:\Users\13\Desktop\Sprint2\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.clientes.resources
+C:\Users\13\Desktop\Sprint2\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.dispositivos.resources
+C:\Users\13\Desktop\Sprint2\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.facturas.resources
+C:\Users\13\Desktop\Sprint2\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Login.resources
+C:\Users\13\Desktop\Sprint2\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.MenuPrincipal.resources
+C:\Users\13\Desktop\Sprint2\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Modificar_contacto.resources
+C:\Users\13\Desktop\Sprint2\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoCliente.resources
+C:\Users\13\Desktop\Sprint2\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoContacto.resources
+C:\Users\13\Desktop\Sprint2\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoDispositivo.resources
+C:\Users\13\Desktop\Sprint2\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoUsuario.resources
+C:\Users\13\Desktop\Sprint2\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ParametrosAdmon.resources
+C:\Users\13\Desktop\Sprint2\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Properties.Resources.resources
+C:\Users\13\Desktop\Sprint2\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.usuarios.resources
+C:\Users\13\Desktop\Sprint2\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csproj.GenerateResource.Cache
+C:\Users\13\Desktop\Sprint2\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe.config
+C:\Users\13\Desktop\Sprint2\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\Sprint2\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\Sprint2\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\Sprint2\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\Sprint2\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.dll
+C:\Users\13\Desktop\Sprint2\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.pdb
+C:\Users\13\Desktop\Sprint2\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csprojResolveAssemblyReference.cache
+C:\Users\13\Desktop\Sprint2\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.clientes.resources
+C:\Users\13\Desktop\Sprint2\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.dispositivos.resources
+C:\Users\13\Desktop\Sprint2\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.facturas.resources
+C:\Users\13\Desktop\Sprint2\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Login.resources
+C:\Users\13\Desktop\Sprint2\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.MenuPrincipal.resources
+C:\Users\13\Desktop\Sprint2\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Modificar_contacto.resources
+C:\Users\13\Desktop\Sprint2\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoCliente.resources
+C:\Users\13\Desktop\Sprint2\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoContacto.resources
+C:\Users\13\Desktop\Sprint2\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoDispositivo.resources
+C:\Users\13\Desktop\Sprint2\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoUsuario.resources
+C:\Users\13\Desktop\Sprint2\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ParametrosAdmon.resources
+C:\Users\13\Desktop\Sprint2\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Properties.Resources.resources
+C:\Users\13\Desktop\Sprint2\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.usuarios.resources
+C:\Users\13\Desktop\Sprint2\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csproj.GenerateResource.Cache
+C:\Users\13\Desktop\Sprint2\(0)XRESPALDO\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe.config
+C:\Users\13\Desktop\Sprint2\(0)XRESPALDO\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\Sprint2\(0)XRESPALDO\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\modX\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe.config
+C:\Users\13\Desktop\modX\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\modX\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\modX\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\modX\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\modX\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.dll
+C:\Users\13\Desktop\modX\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.pdb
+C:\Users\13\Desktop\modX\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csprojResolveAssemblyReference.cache
+C:\Users\13\Desktop\modX\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.clientes.resources
+C:\Users\13\Desktop\modX\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.dispositivos.resources
+C:\Users\13\Desktop\modX\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.facturas.resources
+C:\Users\13\Desktop\modX\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Login.resources
+C:\Users\13\Desktop\modX\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.MenuPrincipal.resources
+C:\Users\13\Desktop\modX\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Modificar_contacto.resources
+C:\Users\13\Desktop\modX\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoCliente.resources
+C:\Users\13\Desktop\modX\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoContacto.resources
+C:\Users\13\Desktop\modX\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoDispositivo.resources
+C:\Users\13\Desktop\modX\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoUsuario.resources
+C:\Users\13\Desktop\modX\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ParametrosAdmon.resources
+C:\Users\13\Desktop\modX\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Properties.Resources.resources
+C:\Users\13\Desktop\modX\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.usuarios.resources
+C:\Users\13\Desktop\modX\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csproj.GenerateResource.Cache
+C:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe.config
+C:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csprojResolveAssemblyReference.cache
+C:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.clientes.resources
+C:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.dispositivos.resources
+C:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.facturas.resources
+C:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Login.resources
+C:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.MenuPrincipal.resources
+C:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Modificar_contacto.resources
+C:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoCliente.resources
+C:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoContacto.resources
+C:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoDispositivo.resources
+C:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoUsuario.resources
+C:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ParametrosAdmon.resources
+C:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Properties.Resources.resources
+C:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.usuarios.resources
+C:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csproj.GenerateResource.Cache
+C:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.dll
+C:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.pdb
+C:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.editarcli.resources
+C:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.EditarUsuario.resources
+C:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.CambiarContraseña.resources
+C:\Users\Dell Admin\Desktop\SPRINT2FULL\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe.config
+C:\Users\Dell Admin\Desktop\SPRINT2FULL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.exe
+C:\Users\Dell Admin\Desktop\SPRINT2FULL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.pdb
+C:\Users\Dell Admin\Desktop\SPRINT2FULL\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe
+C:\Users\Dell Admin\Desktop\SPRINT2FULL\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.pdb
+C:\Users\Dell Admin\Desktop\SPRINT2FULL\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.dll
+C:\Users\Dell Admin\Desktop\SPRINT2FULL\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.pdb
+C:\Users\Dell Admin\Desktop\SPRINT2FULL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csprojResolveAssemblyReference.cache
+C:\Users\Dell Admin\Desktop\SPRINT2FULL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.CambiarContraseña.resources
+C:\Users\Dell Admin\Desktop\SPRINT2FULL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.clientes.resources
+C:\Users\Dell Admin\Desktop\SPRINT2FULL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.dispositivos.resources
+C:\Users\Dell Admin\Desktop\SPRINT2FULL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.editarcli.resources
+C:\Users\Dell Admin\Desktop\SPRINT2FULL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.EditarUsuario.resources
+C:\Users\Dell Admin\Desktop\SPRINT2FULL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.facturas.resources
+C:\Users\Dell Admin\Desktop\SPRINT2FULL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Login.resources
+C:\Users\Dell Admin\Desktop\SPRINT2FULL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.MenuPrincipal.resources
+C:\Users\Dell Admin\Desktop\SPRINT2FULL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Modificar_contacto.resources
+C:\Users\Dell Admin\Desktop\SPRINT2FULL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoCliente.resources
+C:\Users\Dell Admin\Desktop\SPRINT2FULL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoContacto.resources
+C:\Users\Dell Admin\Desktop\SPRINT2FULL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoDispositivo.resources
+C:\Users\Dell Admin\Desktop\SPRINT2FULL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoUsuario.resources
+C:\Users\Dell Admin\Desktop\SPRINT2FULL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ParametrosAdmon.resources
+C:\Users\Dell Admin\Desktop\SPRINT2FULL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Properties.Resources.resources
+C:\Users\Dell Admin\Desktop\SPRINT2FULL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.usuarios.resources
+C:\Users\Dell Admin\Desktop\SPRINT2FULL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csproj.GenerateResource.Cache
+C:\Users\Dell Admin\Desktop\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe.config
+C:\Users\Dell Admin\Desktop\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.exe
+C:\Users\Dell Admin\Desktop\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.pdb
+C:\Users\Dell Admin\Desktop\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe
+C:\Users\Dell Admin\Desktop\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.pdb
+C:\Users\Dell Admin\Desktop\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.dll
+C:\Users\Dell Admin\Desktop\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.pdb
+C:\Users\Dell Admin\Desktop\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csprojResolveAssemblyReference.cache
+C:\Users\Dell Admin\Desktop\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.CambiarContraseña.resources
+C:\Users\Dell Admin\Desktop\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.clientes.resources
+C:\Users\Dell Admin\Desktop\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.dispositivos.resources
+C:\Users\Dell Admin\Desktop\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.editarcli.resources
+C:\Users\Dell Admin\Desktop\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.EditarUsuario.resources
+C:\Users\Dell Admin\Desktop\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.facturas.resources
+C:\Users\Dell Admin\Desktop\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Login.resources
+C:\Users\Dell Admin\Desktop\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.MenuPrincipal.resources
+C:\Users\Dell Admin\Desktop\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Modificar_contacto.resources
+C:\Users\Dell Admin\Desktop\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoCliente.resources
+C:\Users\Dell Admin\Desktop\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoContacto.resources
+C:\Users\Dell Admin\Desktop\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoDispositivo.resources
+C:\Users\Dell Admin\Desktop\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoUsuario.resources
+C:\Users\Dell Admin\Desktop\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ParametrosAdmon.resources
+C:\Users\Dell Admin\Desktop\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Properties.Resources.resources
+C:\Users\Dell Admin\Desktop\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.usuarios.resources
+C:\Users\Dell Admin\Desktop\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csproj.GenerateResource.Cache
+C:\Users\13\Desktop\LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe.config
+C:\Users\13\Desktop\LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\SPRINT3\LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe.config
+C:\Users\13\Desktop\SPRINT3\LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\SPRINT3\LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\SPRINT3\LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\SPRINT3\LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\SPRINT3\LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.dll
+C:\Users\13\Desktop\SPRINT3\LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.pdb
+C:\Users\13\Desktop\SPRINT3\LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csprojResolveAssemblyReference.cache
+C:\Users\13\Desktop\SPRINT3\LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.CambiarContraseña.resources
+C:\Users\13\Desktop\SPRINT3\LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.clientes.resources
+C:\Users\13\Desktop\SPRINT3\LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.dispositivos.resources
+C:\Users\13\Desktop\SPRINT3\LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.editarcli.resources
+C:\Users\13\Desktop\SPRINT3\LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.EditarUsuario.resources
+C:\Users\13\Desktop\SPRINT3\LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.facturas.resources
+C:\Users\13\Desktop\SPRINT3\LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Login.resources
+C:\Users\13\Desktop\SPRINT3\LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.MenuPrincipal.resources
+C:\Users\13\Desktop\SPRINT3\LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Modificar_contacto.resources
+C:\Users\13\Desktop\SPRINT3\LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoCliente.resources
+C:\Users\13\Desktop\SPRINT3\LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoContacto.resources
+C:\Users\13\Desktop\SPRINT3\LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoDispositivo.resources
+C:\Users\13\Desktop\SPRINT3\LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoUsuario.resources
+C:\Users\13\Desktop\SPRINT3\LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ParametrosAdmon.resources
+C:\Users\13\Desktop\SPRINT3\LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Properties.Resources.resources
+C:\Users\13\Desktop\SPRINT3\LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.usuarios.resources
+C:\Users\13\Desktop\SPRINT3\LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csproj.GenerateResource.Cache
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe.config
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.dll
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.pdb
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csprojResolveAssemblyReference.cache
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.CambiarContraseña.resources
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.clientes.resources
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.dispositivos.resources
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.editarcli.resources
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.EditarUsuario.resources
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.facturas.resources
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Login.resources
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.MenuPrincipal.resources
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Modificar_contacto.resources
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoCliente.resources
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoContacto.resources
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoDispositivo.resources
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoUsuario.resources
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ParametrosAdmon.resources
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Properties.Resources.resources
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.usuarios.resources
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csproj.GenerateResource.Cache
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarTipoID.resources
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoTipoID.resources
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.AgregarMarca.resources
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.EditarMarca.resources
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoAccesorio.resources
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarAccesorio.resources
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoTipoDispositivo.resources
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarTipoDispositivo.resources
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoModelo.resources
+C:\Users\13\Desktop\SPRINT3\(0)LUIS DIAZ(SPRINT 3)\LUIS DIAZ(SPRINT 3)\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarModelo.resources
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe.config
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.dll
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.pdb
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csprojResolveAssemblyReference.cache
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.AgregarMarca.resources
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.CambiarContraseña.resources
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.clientes.resources
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.dispositivos.resources
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.editarcli.resources
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.EditarMarca.resources
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.EditarUsuario.resources
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.facturas.resources
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Login.resources
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.MenuPrincipal.resources
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarAccesorio.resources
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarModelo.resources
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarTipoDispositivo.resources
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarTipoID.resources
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Modificar_contacto.resources
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoAccesorio.resources
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoCliente.resources
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoContacto.resources
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoDispositivo.resources
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoModelo.resources
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoTipoDispositivo.resources
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoTipoID.resources
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoUsuario.resources
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ParametrosAdmon.resources
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Properties.Resources.resources
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.usuarios.resources
+C:\Users\13\Desktop\FNS3\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csproj.GenerateResource.Cache
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe.config
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.dll
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.pdb
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csprojResolveAssemblyReference.cache
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.AgregarMarca.resources
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.CambiarContraseña.resources
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.clientes.resources
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.dispositivos.resources
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.editarcli.resources
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.EditarMarca.resources
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.EditarUsuario.resources
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.facturas.resources
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Login.resources
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.MenuPrincipal.resources
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarAccesorio.resources
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarModelo.resources
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarTipoDispositivo.resources
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarTipoID.resources
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Modificar_contacto.resources
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoAccesorio.resources
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoCliente.resources
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoContacto.resources
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoDispositivo.resources
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoModelo.resources
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoTipoDispositivo.resources
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoTipoID.resources
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoUsuario.resources
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ParametrosAdmon.resources
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Properties.Resources.resources
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.usuarios.resources
+C:\Users\13\Desktop\FVAL\Final\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csproj.GenerateResource.Cache
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe.config
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.dll
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.pdb
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csprojResolveAssemblyReference.cache
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.AgregarMarca.resources
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.CambiarContraseña.resources
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.clientes.resources
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.dispositivos.resources
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.editarcli.resources
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.EditarMarca.resources
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.EditarUsuario.resources
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.facturas.resources
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Login.resources
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.MenuPrincipal.resources
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarAccesorio.resources
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarModelo.resources
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarTipoDispositivo.resources
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarTipoID.resources
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Modificar_contacto.resources
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoAccesorio.resources
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoCliente.resources
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoContacto.resources
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoDispositivo.resources
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoModelo.resources
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoTipoDispositivo.resources
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoTipoID.resources
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoUsuario.resources
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ParametrosAdmon.resources
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Properties.Resources.resources
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.usuarios.resources
+C:\Users\13\Desktop\FVAL\FSII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csproj.GenerateResource.Cache
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe.config
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.dll
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.pdb
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csprojResolveAssemblyReference.cache
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.AgregarMarca.resources
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.CambiarContraseña.resources
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.clientes.resources
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.dispositivos.resources
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.editarcli.resources
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.EditarMarca.resources
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.EditarUsuario.resources
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.facturas.resources
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Login.resources
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.MenuPrincipal.resources
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarAccesorio.resources
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarModelo.resources
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarTipoDispositivo.resources
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarTipoID.resources
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Modificar_contacto.resources
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoAccesorio.resources
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoCliente.resources
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoContacto.resources
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoDispositivo.resources
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoModelo.resources
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoTipoDispositivo.resources
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoTipoID.resources
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoUsuario.resources
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ParametrosAdmon.resources
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Properties.Resources.resources
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.usuarios.resources
+C:\Users\13\Desktop\FVAL\FSIII\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csproj.GenerateResource.Cache
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe.config
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.exe
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.pdb
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.pdb
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.dll
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\bin\Debug\Clases.pdb
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csprojResolveAssemblyReference.cache
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.AgregarMarca.resources
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.CambiarContraseña.resources
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.clientes.resources
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.dispositivos.resources
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.editarcli.resources
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.EditarMarca.resources
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.EditarUsuario.resources
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.facturas.resources
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Login.resources
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.MenuPrincipal.resources
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarAccesorio.resources
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarModelo.resources
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarTipoDispositivo.resources
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarTipoID.resources
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Modificar_contacto.resources
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoAccesorio.resources
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoCliente.resources
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoContacto.resources
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoDispositivo.resources
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoModelo.resources
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoTipoDispositivo.resources
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoTipoID.resources
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoUsuario.resources
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ParametrosAdmon.resources
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Properties.Resources.resources
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.usuarios.resources
+C:\Users\Dell Admin\Desktop\PantallasDesarrollo\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csproj.GenerateResource.Cache
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe.config
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\bin\Debug\Clases.dll
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\bin\Debug\Clases.pdb
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csprojResolveAssemblyReference.cache
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.AgregarMarca.resources
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.CambiarContraseña.resources
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.clientes.resources
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.dispositivos.resources
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.editarcli.resources
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.EditarMarca.resources
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.EditarUsuario.resources
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.facturas.resources
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Login.resources
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.MenuPrincipal.resources
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarAccesorio.resources
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarModelo.resources
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarTipoDispositivo.resources
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarTipoID.resources
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Modificar_contacto.resources
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoAccesorio.resources
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoCliente.resources
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoContacto.resources
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoDispositivo.resources
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoModelo.resources
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoTipoDispositivo.resources
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoTipoID.resources
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoUsuario.resources
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ParametrosAdmon.resources
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Properties.Resources.resources
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.usuarios.resources
+C:\Users\13\Desktop\SPRINT 4\Repos\sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csproj.GenerateResource.Cache
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe.config
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\bin\Debug\Clases.dll
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\bin\Debug\Clases.pdb
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csprojResolveAssemblyReference.cache
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.AgregarMarca.resources
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.CambiarContraseña.resources
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.clientes.resources
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.dispositivos.resources
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.editarcli.resources
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.EditarMarca.resources
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.EditarUsuario.resources
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.facturas.resources
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Login.resources
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.MenuPrincipal.resources
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarAccesorio.resources
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarModelo.resources
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarTipoDispositivo.resources
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarTipoID.resources
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Modificar_contacto.resources
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoAccesorio.resources
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoCliente.resources
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoContacto.resources
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoDispositivo.resources
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoModelo.resources
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoTipoDispositivo.resources
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoTipoID.resources
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoUsuario.resources
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ParametrosAdmon.resources
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Properties.Resources.resources
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.usuarios.resources
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csproj.GenerateResource.Cache
+C:\Users\13\Desktop\SPRINT 4\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarDispositivo.resources
+C:\Users\13\Desktop\combFinal\(0)sprint4_luisDiaz\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe.config
+C:\Users\13\Desktop\combFinal\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\combFinal\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.pdb
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe.config
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.exe
+C:\Users\13\Desktop\combFinal\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.pdb
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe.config
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.exe
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.pdb
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csprojResolveAssemblyReference.cache
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.AgregarMarca.resources
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.CambiarContraseña.resources
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.clientes.resources
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.dispositivos.resources
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.editarcli.resources
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.EditarMarca.resources
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.EditarUsuario.resources
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.facturas1.resources
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Imprimiento.resources
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ImprimirFactura.resources
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Login.resources
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.MenuPrincipal.resources
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarAccesorio.resources
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarDispositivo.resources
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarModelo.resources
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarTipoDispositivo.resources
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarTipoID.resources
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Modificar_contacto.resources
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoAccesorio.resources
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoCliente.resources
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoContacto.resources
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoDispositivo.resources
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoModelo.resources
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoTipoDispositivo.resources
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoTipoID.resources
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoUsuario.resources
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ParametrosAdmon.resources
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Properties.Resources.resources
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.usuarios.resources
+C:\Users\edugo\Desktop\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csproj.GenerateResource.Cache
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe.config
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.exe
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.pdb
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.exe
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\bin\Debug\PantallasDesarrollo.pdb
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\bin\Debug\Clases.dll
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\bin\Debug\Clases.pdb
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csprojResolveAssemblyReference.cache
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.AgregarMarca.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.CambiarContraseña.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.clientes.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.dispositivos.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.editarcli.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.EditarMarca.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.EditarUsuario.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.facturas1.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Imprimiento.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ImprimirFactura.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Login.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.MenuPrincipal.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarAccesorio.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarDispositivo.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarModelo.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarTipoDispositivo.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ModificarTipoID.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Modificar_contacto.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoAccesorio.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoCliente.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoContacto.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoDispositivo.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoModelo.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoTipoDispositivo.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoTipoID.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.NuevoUsuario.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.ParametrosAdmon.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Properties.Resources.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.usuarios.resources
+C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csproj.GenerateResource.Cache

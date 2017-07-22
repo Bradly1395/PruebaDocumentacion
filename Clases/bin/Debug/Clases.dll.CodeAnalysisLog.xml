@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio 11.0\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="11.0">
+ <Targets>
+  <Target Name="C:\Users\Dell Admin\Desktop\SPRINT2FULL\Final\PantallasDesarrollo\Clases\bin\Debug\Clases.dll">
+   <Modules>
+    <Module Name="clases.dll">
+     <Namespaces>
+      <Namespace Name="Clases">
+       <Types>
+        <Type Name="clients" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#buscarclientes(System.Windows.Forms.DataGridView,System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="No usar Dispose varias veces en objetos" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2017-03-27 22:15:43Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="c:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases" File="clients.cs" Line="62">El objeto 'cone' admite Dispose más de una vez en el método 'clients.buscarclientes(DataGridView, string)'. Para evitar generar una excepción System.ObjectDisposedException, no debe llamar a Dispose más de una vez en un objeto.: Lines: 62</Issue>
+            </Message>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2017-03-27 22:15:43Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="c:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases" File="clients.cs" Line="55">La cadena de consulta pasada a 'SqlDataAdapter.SqlDataAdapter(string, SqlConnection)' en 'clients.buscarclientes(DataGridView, string)' podría contener las siguientes variables: 'query'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#codigoCont()" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="No usar Dispose varias veces en objetos" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2017-03-27 22:15:43Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="c:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases" File="clients.cs" Line="41">El objeto 'cone' admite Dispose más de una vez en el método 'clients.codigoCont()'. Para evitar generar una excepción System.ObjectDisposedException, no debe llamar a Dispose más de una vez en un objeto.: Lines: 41</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#edit(System.Int32,System.Int32,System.String,System.String,System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2017-03-27 22:15:43Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="c:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases" File="clients.cs" Line="90">La cadena de consulta pasada a 'SqlCommand.SqlCommand(string, SqlConnection)' en 'clients.edit(int, int, string, string, int)' podría contener las siguientes variables: 'rtn', 'name', 'direc', 'est', 'id'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#insetarclien(System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="No usar Dispose varias veces en objetos" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2017-03-27 22:15:43Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="c:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases" File="clients.cs" Line="26">El objeto 'cnn' admite Dispose más de una vez en el método 'clients.insetarclien(string)'. Para evitar generar una excepción System.ObjectDisposedException, no debe llamar a Dispose más de una vez en un objeto.: Lines: 26</Issue>
+            </Message>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2017-03-27 22:15:43Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="c:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases" File="clients.cs" Line="22">La cadena de consulta pasada a 'SqlCommand.SqlCommand(string, SqlConnection)' en 'clients.insetarclien(string)' podría contener las siguientes variables: 'query'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="connect" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="TypesThatOwnDisposableFieldsShouldBeDisposable" Category="Microsoft.Design" CheckId="CA1001" Status="Active" Created="2017-03-27 22:15:43Z" FixCategory="DependsOnFix">
+           <Issue Name="DependsOnFix" Certainty="95" Level="CriticalError">Implemente IDisposable en 'connect' porque crea miembros de los tipos IDisposable siguientes: 'SqlConnection'. Si ya se había distribuido 'connect', agregar nuevos miembros que implementen IDisposable en este tipo se considera un cambio rotundo para los consumidores existentes.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="contactos" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#actualizar(System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="No usar Dispose varias veces en objetos" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2017-03-27 22:15:43Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="c:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases" File="contactos.cs" Line="104">El objeto 'cone' admite Dispose más de una vez en el método 'contactos.actualizar(string)'. Para evitar generar una excepción System.ObjectDisposedException, no debe llamar a Dispose más de una vez en un objeto.: Lines: 104</Issue>
+            </Message>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2017-03-27 22:15:43Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="c:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases" File="contactos.cs" Line="99">La cadena de consulta pasada a 'SqlCommand.SqlCommand(string, SqlConnection)' en 'contactos.actualizar(string)' podría contener las siguientes variables: 'query'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Buscar(System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="No usar Dispose varias veces en objetos" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2017-03-27 22:15:43Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="c:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases" File="contactos.cs" Line="87">El objeto 'cone' admite Dispose más de una vez en el método 'contactos.Buscar(string)'. Para evitar generar una excepción System.ObjectDisposedException, no debe llamar a Dispose más de una vez en un objeto.: Lines: 87</Issue>
+            </Message>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2017-03-27 22:15:43Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="c:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases" File="contactos.cs" Line="76">La cadena de consulta pasada a 'SqlCommand.SqlCommand(string, SqlConnection)' en 'contactos.Buscar(string)' podría contener las siguientes variables: 'sql'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#buscarcontactos(System.Windows.Forms.DataGridView,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="No usar Dispose varias veces en objetos" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2017-03-27 22:15:43Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="c:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases" File="contactos.cs" Line="65">El objeto 'cone' admite Dispose más de una vez en el método 'contactos.buscarcontactos(DataGridView, string)'. Para evitar generar una excepción System.ObjectDisposedException, no debe llamar a Dispose más de una vez en un objeto.: Lines: 65</Issue>
+            </Message>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2017-03-27 22:15:43Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="c:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases" File="contactos.cs" Line="58">La cadena de consulta pasada a 'SqlDataAdapter.SqlDataAdapter(string, SqlConnection)' en 'contactos.buscarcontactos(DataGridView, string)' podría contener las siguientes variables: 'query'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#codigoCont()" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="No usar Dispose varias veces en objetos" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2017-03-27 22:15:43Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="c:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases" File="contactos.cs" Line="44">El objeto 'cone' admite Dispose más de una vez en el método 'contactos.codigoCont()'. Para evitar generar una excepción System.ObjectDisposedException, no debe llamar a Dispose más de una vez en un objeto.: Lines: 44</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#edit(System.Int32,System.String,System.String,System.String,System.Int32,System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2017-03-27 22:15:43Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="c:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases" File="contactos.cs" Line="115">La cadena de consulta pasada a 'SqlCommand.SqlCommand(string, SqlConnection)' en 'contactos.edit(int, string, string, string, int, int)' podría contener las siguientes variables: 'rtn', 'name', 'ape', 'tel', '16', 'cli', 'rtn'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#insetarCon(System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="No usar Dispose varias veces en objetos" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2017-03-27 22:15:43Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="c:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases" File="contactos.cs" Line="29">El objeto 'cnn' admite Dispose más de una vez en el método 'contactos.insetarCon(string)'. Para evitar generar una excepción System.ObjectDisposedException, no debe llamar a Dispose más de una vez en un objeto.: Lines: 29</Issue>
+            </Message>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2017-03-27 22:15:43Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="c:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases" File="contactos.cs" Line="25">La cadena de consulta pasada a 'SqlCommand.SqlCommand(string, SqlConnection)' en 'contactos.insetarCon(string)' podría contener las siguientes variables: 'query'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="Mantenimiento" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#consulta(System.String,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="No usar Dispose varias veces en objetos" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2017-03-27 22:15:43Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="c:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases" File="Mantenimiento.cs" Line="51">El objeto 'Cone' admite Dispose más de una vez en el método 'Mantenimiento.consulta(string, string)'. Para evitar generar una excepción System.ObjectDisposedException, no debe llamar a Dispose más de una vez en un objeto.: Lines: 51</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Estado(System.String,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="No usar Dispose varias veces en objetos" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2017-03-27 22:15:43Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="c:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases" File="Mantenimiento.cs" Line="69">El objeto 'Cone' admite Dispose más de una vez en el método 'Mantenimiento.Estado(string, string)'. Para evitar generar una excepción System.ObjectDisposedException, no debe llamar a Dispose más de una vez en un objeto.: Lines: 69</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#llenarCliente(System.Windows.Forms.ComboBox)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="No usar Dispose varias veces en objetos" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2017-03-27 22:15:43Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="c:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases" File="Mantenimiento.cs" Line="126">El objeto 'Cone' admite Dispose más de una vez en el método 'Mantenimiento.llenarCliente(ComboBox)'. Para evitar generar una excepción System.ObjectDisposedException, no debe llamar a Dispose más de una vez en un objeto.: Lines: 126</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#llenarPst(System.Windows.Forms.ComboBox)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="No usar Dispose varias veces en objetos" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2017-03-27 22:15:43Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="c:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases" File="Mantenimiento.cs" Line="107">El objeto 'Cone' admite Dispose más de una vez en el método 'Mantenimiento.llenarPst(ComboBox)'. Para evitar generar una excepción System.ObjectDisposedException, no debe llamar a Dispose más de una vez en un objeto.: Lines: 107</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#userid(System.String,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="No usar Dispose varias veces en objetos" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2017-03-27 22:15:43Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="c:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases" File="Mantenimiento.cs" Line="87">El objeto 'Cone' admite Dispose más de una vez en el método 'Mantenimiento.userid(string, string)'. Para evitar generar una excepción System.ObjectDisposedException, no debe llamar a Dispose más de una vez en un objeto.: Lines: 87</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="users" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Buscar()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2017-03-27 22:15:43Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="c:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases" File="users.cs" Line="46">La cadena de consulta pasada a 'SqlCommand.SqlCommand(string, SqlConnection)' en 'users.Buscar()' podría contener las siguientes variables: 'this.usuario', 'this.contraseña'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Cambiarcontra(System.String,System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2017-03-27 22:15:43Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="c:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases" File="users.cs" Line="118">La cadena de consulta pasada a 'SqlCommand.SqlCommand(string, SqlConnection)' en 'users.Cambiarcontra(string, int)' podría contener las siguientes variables: 'clave', '5', 'id'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#edit(System.Int32,System.String,System.String,System.String,System.Int32,System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2017-03-27 22:15:43Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="c:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases" File="users.cs" Line="101">La cadena de consulta pasada a 'SqlCommand.SqlCommand(string, SqlConnection)' en 'users.edit(int, string, string, string, int, int)' podría contener las siguientes variables: 'nom', 'user', 'clave', 'puesto', 'est', 'id'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#insertarUser(System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="No usar Dispose varias veces en objetos" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2017-03-27 22:15:43Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="c:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases" File="users.cs" Line="92">El objeto 'cnn' admite Dispose más de una vez en el método 'users.insertarUser(string)'. Para evitar generar una excepción System.ObjectDisposedException, no debe llamar a Dispose más de una vez en un objeto.: Lines: 92</Issue>
+            </Message>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2017-03-27 22:15:43Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="c:\Users\13\Desktop\combinar\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases" File="users.cs" Line="88">La cadena de consulta pasada a 'SqlCommand.SqlCommand(string, SqlConnection)' en 'users.insertarUser(string)' podría contener las siguientes variables: 'query'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="No usar Dispose varias veces en objetos" Category="Microsoft.Usage" CheckId="CA2202">
+   <Name>No usar Dispose varias veces en objetos</Name>
+   <Description>Un método Dispose correctamente implementado se puede llamar varias veces sin producir ninguna excepción. Sin embargo, esto no está garantizado y, para evitar generar una excepción System.ObjectDisposedException, no debe llamar al método Dispose más de una vez en un objeto.</Description>
+   <Resolution Name="Default">El objeto {0} admite Dispose más de una vez en el método {1}. Para evitar generar una excepción System.ObjectDisposedException, no debe llamar a Dispose más de una vez en un objeto.: Lines: 92</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182334(VS.100).aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="11.0.0.0" />
+  </Rule>
+  <Rule TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100">
+   <Name>Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad</Name>
+   <Description>Una cadena de comando SQL compilada a partir de datos proporcionados por el usuario es vulnerable a ataques pon inyección de código SQL. Microsoft SQL Server y otros servidores de bases de datos admiten procedimientos almacenados y consultas SQL parametrizadas, que reducen el riesgo de ataques por inyección.</Description>
+   <Resolution Name="WithNonLiterals">La cadena de consulta pasada a {0} en {1} podría contener las siguientes variables: {2}. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182310(VS.100).aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="11.0.0.0" />
+  </Rule>
+  <Rule TypeName="TypesThatOwnDisposableFieldsShouldBeDisposable" Category="Microsoft.Design" CheckId="CA1001">
+   <Name>Los tipos que poseen campos descartables deben ser descartables</Name>
+   <Description>Los tipos que declaran miembros descartables también deben implementar IDisposable. Si el tipo no posee ningún recurso no administrado, no implementar un finalizador.</Description>
+   <Resolution Name="DependsOnFix">Implemente IDisposable en {0} porque crea miembros de los tipos IDisposable siguientes: {1}. Si ya se había distribuido {0}, agregar nuevos miembros que implementen IDisposable en este tipo se considera un cambio rotundo para los consumidores existentes.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182172(VS.100).aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalError</MessageLevel>
+   <File Name="designrules.dll" Version="11.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Categoría</String>
+  <String Key="Certainty">Certeza</String>
+  <String Key="CollapseAll">Contraer todo</String>
+  <String Key="CheckId">Comprobar id.</String>
+  <String Key="Error">Error</String>
+  <String Key="Errors">errores</String>
+  <String Key="ExpandAll">Expandir todo</String>
+  <String Key="Help">Ayuda</String>
+  <String Key="Line">Línea</String>
+  <String Key="Messages">mensajes</String>
+  <String Key="LocationNotStoredInPdb">[Ubicación no almacenada en Pdb]</String>
+  <String Key="Project">Proyecto</String>
+  <String Key="Resolution">Resolución</String>
+  <String Key="Rule">Regla</String>
+  <String Key="RuleFile">Archivo de regla</String>
+  <String Key="RuleDescription">Descripción de la regla</String>
+  <String Key="Source">Origen</String>
+  <String Key="Status">Estado</String>
+  <String Key="Target">Círculos concéntricos</String>
+  <String Key="Warning">Advertencia</String>
+  <String Key="Warnings">advertencias</String>
+  <String Key="ReportTitle">Informe de análisis del código</String>
+ </Localized>
+</FxCopReport>
