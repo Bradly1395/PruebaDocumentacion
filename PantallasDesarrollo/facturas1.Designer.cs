@@ -69,7 +69,6 @@
             this.button1.TabIndex = 7;
             this.button1.Text = "Nueva Factura";
             this.button1.UseVisualStyleBackColor = false;
-            this.button1.Visible = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // btnAyuda2
