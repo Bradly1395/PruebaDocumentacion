@@ -28,11 +28,13 @@ namespace PantallasDesarrollo
         {
             contactos co = new contactos();
             co.cargarFacturas(dataGridView1);
+            co.cargarDispositivosSinFacturas(dataGridView2);
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
+            CrearFactura frm = new CrearFactura();
+            frm.Show();
         }
 
         private void btnAyuda2_Click(object sender, EventArgs e)

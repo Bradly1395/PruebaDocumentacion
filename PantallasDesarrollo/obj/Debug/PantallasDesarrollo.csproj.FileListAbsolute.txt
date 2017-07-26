@@ -709,3 +709,4 @@ C:\GitHub\PruebaDocumentacion\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.
 C:\GitHub\PruebaDocumentacion\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.Properties.Resources.resources
 C:\GitHub\PruebaDocumentacion\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.usuarios.resources
 C:\GitHub\PruebaDocumentacion\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.csproj.GenerateResource.Cache
+C:\GitHub\PruebaDocumentacion\PantallasDesarrollo\obj\Debug\PantallasDesarrollo.CrearFactura.resources
