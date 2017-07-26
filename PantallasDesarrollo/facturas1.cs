@@ -32,14 +32,19 @@ namespace PantallasDesarrollo
 
         private void button1_Click(object sender, EventArgs e)
         {
-            ImprimirFactura frm = new ImprimirFactura();
-            frm.Show();
+            
         }
 
         private void btnAyuda2_Click(object sender, EventArgs e)
         {
             Ayuda ayuda = new Ayuda();
             ayuda.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            ImprimirFactura frm = new ImprimirFactura();
+            frm.Show();
         }
     }
 }
