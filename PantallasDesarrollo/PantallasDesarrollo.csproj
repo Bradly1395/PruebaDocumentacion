@@ -70,12 +70,6 @@
     <Compile Include="clientes.Designer.cs">
       <DependentUpon>clientes.cs</DependentUpon>
     </Compile>
-    <Compile Include="CrearFactura.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="CrearFactura.Designer.cs">
-      <DependentUpon>CrearFactura.cs</DependentUpon>
-    </Compile>
     <Compile Include="dispositivos.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -250,9 +244,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="clientes.resx">
       <DependentUpon>clientes.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="CrearFactura.resx">
-      <DependentUpon>CrearFactura.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="dispositivos.resx">
       <DependentUpon>dispositivos.cs</DependentUpon>

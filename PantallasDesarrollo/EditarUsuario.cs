@@ -12,6 +12,16 @@ using System.Security.Cryptography;
 
 using System.Data.SqlClient;
 
+/*
+ * Eduardo Gonzalez 
+ * Bradly Aguilera 
+ * David Euceda 
+ * 
+ * Interfaz para editar usuarios
+ * 
+ * 27/7/2017 
+ * */
+
 
 namespace PantallasDesarrollo
 {
@@ -24,12 +34,14 @@ namespace PantallasDesarrollo
 
         private void EditarUsuario_Load(object sender, EventArgs e)
         {
+           
             Mantenimiento llenar = new Mantenimiento();
             
             llenar.llenarPst(comboBox1);
 
             users us = new users();
 
+            //busca y llena el estado del usuario que se selecciono
             SqlDataReader Lect;
             using (SqlConnection Cone = Conexion.generarConexion())
             {
@@ -46,6 +58,7 @@ namespace PantallasDesarrollo
 
             }
 
+            //copia a las cajas de texto los datos del usuario que se selecciono
             comboBox1.SelectedItem = txtPuesto.Text;
             comboBox2.SelectedItem = txtEstado.Text;
 
@@ -70,8 +83,7 @@ namespace PantallasDesarrollo
             else
             {
 
-                //users us = new users();
-                //users us = new users();
+                //encriptacion contraseña
                 string login_pass = clave.Text;
                 MD5 md5 = MD5.Create();
                 byte[] inputBytes = System.Text.Encoding.ASCII.GetBytes(login_pass);
@@ -79,12 +91,7 @@ namespace PantallasDesarrollo
                 login_pass = BitConverter.ToString(hash).Replace("-", "");
 
 
-                /*if (comboBox1.Text == "Administrador")
-                    MessageBox.Show(us.edit((Convert.ToInt32(txteid.Text)), nom.Text, user.Text, login_pass, 9, 6));
-                else
-                    MessageBox.Show(us.edit((Convert.ToInt32(txteid.Text)), nom.Text, user.Text, login_pass, 9, 7));*/
-
-                /*----------------------------------------------------*/
+               //va comparando de acuerdo al nuevo estado que se coloque lo insertara en labase de datos
                 if (comboBox2.Text == "Activo")
                 {
                     if (comboBox1.Text == "Administrador")
@@ -127,8 +134,9 @@ namespace PantallasDesarrollo
                 }
 
 
-
+                
                 /*----------------------------------------------------*/
+
 
 
                 this.Hide();
@@ -140,7 +148,7 @@ namespace PantallasDesarrollo
 
         private void button3_Click(object sender, EventArgs e)
         {
-            //this.Hide();
+            
             this.Hide();
             usuarios user1 = new usuarios();
             user1.Show();

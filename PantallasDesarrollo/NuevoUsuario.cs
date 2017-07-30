@@ -11,6 +11,17 @@ using Clases;
 
 using System.Security.Cryptography;
 
+/*
+ * Eduardo Gonzalez 
+ * Bradly Aguilera 
+ * David Euceda 
+ * 
+ * Interfaz para añadir usuarios
+ * 
+ * 27/7/2017 
+ * */ 
+
+
 namespace PantallasDesarrollo
 {
     public partial class NuevoUsuario : Form
@@ -32,7 +43,8 @@ namespace PantallasDesarrollo
             
             else
             {
-                
+            //copia el texto de las cajas de texto y lo compara en la base de datos para asegurarase de que
+            //no existe
             string Query = "select *from USUARIO where USUARIO= '" + user.Text + "'";
 
             contactos cl = new contactos();
@@ -43,13 +55,15 @@ namespace PantallasDesarrollo
 
             else
             {
+                //encripta contraseña
                 users us = new users();
                 string login_pass = clave.Text;
                 MD5 md5 = MD5.Create();
                 byte[] inputBytes = System.Text.Encoding.ASCII.GetBytes(login_pass);
                 byte[] hash = md5.ComputeHash(inputBytes);
-                login_pass = BitConverter.ToString(hash).Replace("-", "");
-
+                login_pass = BitConverter.ToString(hash).Replace("-", ""); 
+                
+                //toma la decision lo asigna a administrador o usuario regular para derechos
                 if (comboBox1.Text == "Administrador")
                 {
                     string cadenasql = "insert  into USUARIO values ('" + nom.Text + "', '" + tel.Text + "', '" + user.Text + "', '" + login_pass + "'," + 8 + ", " + 0 + "," + 6 + ");";
@@ -61,10 +75,7 @@ namespace PantallasDesarrollo
                     users.insertarUser(cadenasql);
                 }
                 
-                //string cadenasql = "insert  into USUARIO values ('" + nom.Text + "', '" + tel.Text + "', '" + user.Text + "', '" + clave.Text + "'," + 5 + ", " + 0 + "," + comboBox1.Text + ");";
-                
-                
-                //users.insertarUser(cadenasql);
+            
                 nom.Clear();
                 tel.Clear();
                 user.Clear();
@@ -86,7 +97,7 @@ namespace PantallasDesarrollo
 
         private void button3_Click(object sender, EventArgs e)
         {
-            //this.Hide();
+           
             this.Hide();
             usuarios user1 = new usuarios();
             user1.Show();
@@ -106,7 +117,7 @@ namespace PantallasDesarrollo
             validaciones vali = new validaciones();
             vali.ParaLoginSinEspacios(e);
 
-            //e.Handled = char.IsWhiteSpace(e.KeyChar);
+          
         }
 
         private void textBox2_KeyPress(object sender, KeyPressEventArgs e)
@@ -128,7 +139,7 @@ namespace PantallasDesarrollo
             validaciones vali = new validaciones();
             vali.ParaLoginSinEspacios(e);
 
-            //e.Handled = char.IsWhiteSpace(e.KeyChar);
+        
         }
 
         private void textBox6_KeyPress(object sender, KeyPressEventArgs e)
