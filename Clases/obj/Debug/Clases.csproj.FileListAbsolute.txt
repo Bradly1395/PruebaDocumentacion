@@ -97,3 +97,10 @@ C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\Clases
 C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\Clases\obj\Debug\Clases.csproj.GenerateResource.Cache
 C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\Clases\obj\Debug\Clases.dll
 C:\Users\edugo\Documents\UNICAH\desarrollo\Sprint4\x2\(0)sprint4_luisDiaz\Clases\obj\Debug\Clases.pdb
+C:\GitHub\PruebaDocumentacion\Clases\bin\Debug\Clases.dll
+C:\GitHub\PruebaDocumentacion\Clases\bin\Debug\Clases.pdb
+C:\GitHub\PruebaDocumentacion\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\GitHub\PruebaDocumentacion\Clases\obj\Debug\Clases.Imprimir.resources
+C:\GitHub\PruebaDocumentacion\Clases\obj\Debug\Clases.csproj.GenerateResource.Cache
+C:\GitHub\PruebaDocumentacion\Clases\obj\Debug\Clases.dll
+C:\GitHub\PruebaDocumentacion\Clases\obj\Debug\Clases.pdb

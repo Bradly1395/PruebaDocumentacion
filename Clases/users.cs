@@ -9,17 +9,6 @@ using System.Windows.Forms;
 using System.Data;
 using System.Data.Sql;
 
-/*
- * Eduardo Gonzalez 
- * Bradly Aguilera 
- * David Euceda 
- * 
- * Clase general de usuarios donde estan las funciones para hacer trabajar los modulos que directamente
- * controlen los usuarios
- * 
- * 27/7/2017 
- * */
-
 namespace Clases
 {
     public class users : connect
@@ -36,8 +25,6 @@ namespace Clases
 
         }
 
-        //crea funciones de usuario y contraseña para almacenarlas en un espacio primero las lee y despues 
-        //las ecribe esto se hace para que en el proceso pueda hacer validaciones
         public string Usuario
         {
             get { return this.usuario; }
@@ -51,7 +38,6 @@ namespace Clases
 
         }
 
-        //busca en la base de datos que el usuario y contraseña sean validos y compatibles
         public bool Buscar()
         {
             bool Resultado = false;
@@ -88,19 +74,22 @@ namespace Clases
             if (reg.Read())
             {
                 Resultado = true;
-        
+                //this.mensaje = "INGRESO CORRECTO";
 
             }
-          
+            //else
+            //{
+                //this.mensaje = "Usuario o Contraseña incorrecto";
+            //}
             this.cnn.Close();
             return Resultado;
 
         }
 
-        //funcion y query para mostrar usuario
         public void cargarUsers(DataGridView dgv)
         {
-      
+            //DataTable dt = new DataTable();
+            //SqlDataAdapter da = new SqlDataAdapter(); 
 
             try
             {
@@ -115,8 +104,6 @@ namespace Clases
             }
         }
 
-
-        //funcion y query para insertar usuario
         public static void insertarUser(string query)
         {
             using (SqlConnection cnn = Conexion.generarConexion())
@@ -129,7 +116,6 @@ namespace Clases
             }
         }
 
-        //funcion y query para editar usuario
         public string edit(int id, string nom, string user, string clave, int est, int puesto)
         {
             string salida = "Se actualizaron los datos";
@@ -147,7 +133,6 @@ namespace Clases
             return salida;
         }
 
-        //funcion y query para validar intentos e irlos almacenando en la base
         public string editIntentos(int intentos,int id)
         {
             string salida = "Contraseña Incorrecta";
@@ -161,7 +146,7 @@ namespace Clases
                   comandosql = new SqlCommand("Update USUARIO set ESTADO = " + 7 + " where ID_EMPLEADO = " + id + " ", cnn);
                   comandosql.ExecuteNonQuery();
                 }
-                
+                //comandosql.ExecuteNonQuery();
                 cnn.Close();
             }
             catch (Exception ex)
@@ -172,7 +157,7 @@ namespace Clases
         }
 
 
-        //funcion y query para cambiar contraseña
+
         public string Cambiarcontra(string clave, int id)
         {
             string salida = "Se actualizaron los datos";

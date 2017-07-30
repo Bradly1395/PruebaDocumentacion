@@ -11,17 +11,6 @@ using Clases;
 using System.Security.Cryptography;
 
 
-/*
- * Eduardo Gonzalez 
- * Bradly Aguilera 
- * David Euceda 
- * 
- * Interfaz central de login
- * 
- * 27/7/2017 
- * */
-
-
 namespace PantallasDesarrollo
 {
     public partial class Login : Form
@@ -74,10 +63,31 @@ namespace PantallasDesarrollo
                 u.Contraseña = login_pass;
 
 
+                /*
+                if (usuariotxt.Text == "usuario" && passwordtxt.Text == "clave")
+                {
+                   MenuPrincipal formulario = new MenuPrincipal();
+                    this.Hide();
+                    MessageBox.Show("!!Correcto!! ", "Ok", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    formulario.Show();
+                }
+                */
+                /*
+                else  /* if (usuariotxt.Text == "" || passwordtxt.Text == "")*/
+                /*
+{
+/*MessageBox.Show("!!Incorrecto!! ", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);*/
+                /*   MessageBox.Show("Error", "No registrado", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+               }*/
+
+                //users u = new users();
+                //u.Usuario = this.usuariotxt.Text;
+                //u.Contraseña = this.passwordtxt.Text;
 
                 if (u.Buscar() == true)
                 {
-             
+                    //MessageBox.Show(u.mensaje, "");
+                    //
                     string adm;
                     string est;
                     string idus;
@@ -89,6 +99,10 @@ namespace PantallasDesarrollo
                     est = estado.Text;
                     idus = id.Text;
 
+                    /*if (adm == "User")
+                    {
+                        MessageBox.Show(u.mensaje, "");   
+                    }*/
 
 
                     //Chequear si es admin
@@ -97,7 +111,7 @@ namespace PantallasDesarrollo
                     CambiarContraseña forma3 = new CambiarContraseña();
                     var txt6 = forma2.Controls["test"];
                     var txt7 = forma3.Controls["textBox1"];
-                 
+                    //txt6.Text = Mantenimiento.consulta(u.Usuario, u.Contraseña).ToString();
                     txt6.Text = prueba.Text.ToString();
 
                     //Cheque estado
@@ -112,11 +126,10 @@ namespace PantallasDesarrollo
                     est = estado.Text;
                     idus = id.Text;
 
-                    //Case para ver cuales son las opciones que se pueden tomar despues de que el usuario 
-                    //ingreso sus datos para ingresar al sistema
+                    //if (adm == "User" || adm == "Admin"
                     if (true)
                     {
-                  
+                        //MessageBox.Show(u.mensaje, "");
 
                         switch (est)
                         {
@@ -144,12 +157,17 @@ namespace PantallasDesarrollo
                         }
 
                     }
-                 
+                   /* else
+                    {
+                        forma2.Show();
+                        this.Hide();
+                    }*/
+
+                    //forma2.Show();
+                    //this.Hide();
                 }
                 else
-                { 
-                    //Validacion para ver cuantos intentos lleva el usuario de ingresar ya que cuando llegue
-                    //a 3 el sistema automaticamente lo bloqueara
+                {
                     if (u.BuscarUser() == true)
                     {
                         string query = "select INTENTOS FROM USUARIO where USUARIO = '" + usuariotxt.Text + "'";
@@ -165,10 +183,11 @@ namespace PantallasDesarrollo
                         }
                         else
                         {
-                        
+                          //cont++;
                           id.Text = Mantenimiento.userid(usuariotxt.Text).ToString();
                           int idus = Convert.ToInt32(id.Text);
-                     
+                          //MessageBox.Show(u.mensaje, "");
+                          //MessageBox.Show(u.mensaje, "Usuario Bloqueado");
                           MessageBox.Show(u.editIntentos(cont, idus));
                         }
 
@@ -176,19 +195,27 @@ namespace PantallasDesarrollo
                     
                     }
                     
-                  
+                    //MessageBox.Show(u.mensaje, "ERROR");
+                    //cont++;
                     usuariotxt.Clear();
                     passwordtxt.Clear();
                 }
 
-           
+                /*if (cont > 3)
+                {
+
+                    EntrarB.Enabled = false;
+                    usuariotxt.Enabled = false;
+                    passwordtxt.Enabled = false;
+                    label3.Visible = true;
+                }*/
             }
             
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
+            //this.Close();
             Environment.Exit(0);
         }
 

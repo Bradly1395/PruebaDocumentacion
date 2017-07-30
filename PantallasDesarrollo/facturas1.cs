@@ -28,22 +28,25 @@ namespace PantallasDesarrollo
         {
             contactos co = new contactos();
             co.cargarFacturas(dataGridView1);
+            co.cargarDispositivosSinFacturas(dataGridView2);
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            ImprimirFactura frm = new ImprimirFactura();
+            CrearFactura frm = new CrearFactura();
             frm.Show();
         }
 
         private void btnAyuda2_Click(object sender, EventArgs e)
         {
-            Help.ShowHelp(btnAyuda2, ayudaH.HelpNamespace);
+            Ayuda ayuda = new Ayuda();
+            ayuda.Show();
         }
 
-        private void btnAyuda2_MouseClick(object sender, MouseEventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
-
+            ImprimirFactura frm = new ImprimirFactura();
+            frm.Show();
         }
     }
 }

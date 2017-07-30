@@ -70,9 +70,9 @@ namespace Clases
                DataSet dt = new DataSet();
                SqlDataAdapter da = new SqlDataAdapter(query, cone);
 
-               da.Fill(dt, "IT3");
+               da.Fill(dt, "IT4");
                dgv.DataSource = dt;
-               dgv.DataMember = "IT3";
+               dgv.DataMember = "IT4";
                cone.Close();
 
            }
@@ -284,5 +284,28 @@ namespace Clases
                MessageBox.Show("No se pudo llenar el Datagridview: " + ex.ToString());
            }
        }
+
+       public void cargarDispositivosSinFacturas(DataGridView dgv)
+       {
+           //DataTable dt = new DataTable();
+           //SqlDataAdapter da = new SqlDataAdapter(); 
+
+           try
+           {
+               da = new SqlDataAdapter("select a.IdDispositivos, a.NumRegistro, c.Descripcion as Marca, b.Descripcion as Modelo, d.[NOMBRE COMPLETO], f.Descripcion as Estado, a.DIAGNOSTICO, a.fechaIngreso from DISPOSITIVO as a inner join Modelo as b on a.IDMODELO = b.IDmodelo inner join Marca as c on b.IDmarca = c.IDmarca inner join CLIENTE as d on a.IDCliente = d.IDCliente inner join [Estados/Entidad] as f on f.IDCol = a.Estado where f.IDCol = '13'", cnn);
+               dt = new DataTable();
+               da.Fill(dt);
+               dgv.DataSource = dt;
+           }
+           catch (Exception ex)
+           {
+               MessageBox.Show("No se pudo llenar el Datagridview: " + ex.ToString());
+           }
+       }
+
+
+
+        /*-----------Grids externos!-------------*/
+
     }
 }

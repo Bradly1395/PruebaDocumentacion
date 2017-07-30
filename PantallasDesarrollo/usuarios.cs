@@ -7,19 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Clases; 
-
-/*
- * Eduardo Gonzalez 
- * Bradly Aguilera 
- * David Euceda 
- * 
- * Interfaz central de Uusuario con la vista de usuarios ya existentes y las opciones para crear nuevos
- * y editar los ya existentes 
- * 
- * 27/7/2017 
- * */
- 
+using Clases;
 
 namespace PantallasDesarrollo
 {
